@@ -1,0 +1,25 @@
+body {
+    background-color: cadetblue;
+}
+
+.container {
+    text-align: center;
+    display: block;
+}
+
+#button1 {
+    padding: 1.5rem;
+    letter-spacing: 4px;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+}
+
+#chiste {
+    text-align: center;
+    padding: 10px;
+    border: 2px black dashed;
+}
+
+#chuckImg {
+    width: 40rem;
+}
